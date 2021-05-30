@@ -1,0 +1,6 @@
+rootProject.name = "ru.mirea.zgarbov.practice5"
+include ':app'
+include ':preferences'
+include ':internalfilestorage'
+include ':notebook'
+include ':room'
